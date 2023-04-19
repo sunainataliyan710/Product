@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <grant_type>authorization_code</grant_type>
+        <jwt_provider/>
+        <name>Zoom App default_profile</name>
+        <oauth_entity display_value="Zoom App">65ef48462fe1211058a6d0ccf699b6a3</oauth_entity>
+        <saml2_assertion_producer/>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 09:51:33</sys_created_on>
+        <sys_id>dd2a24c22f65211058a6d0ccf699b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Zoom App default_profile</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_update_name>oauth_entity_profile_dd2a24c22f65211058a6d0ccf699b683</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 09:51:33</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>

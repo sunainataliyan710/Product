@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time>1970-01-01 12:00:00</entered_time>
+        <name>After 1 week idea has end of life </name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2023-03-20 06:52:25</run_start>
+        <run_time>1970-01-01 12:00:00</run_time>
+        <run_type>monthly</run_type>
+        <script><![CDATA[closeidea();
+function closeidea() {
+    var gr = new GlideRecord('u_idea');
+    gr.addEncodedQuery('u_state=market_analysis^sys_updated_onONLast week@javascript:gs.beginningOfLastWeek()@javascript:gs.endOfLastWeek()');
+    gr.query();
+    while (gr.next()) {
+        gr.state = 'end_of_life';
+        gr.update();
+    }
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-20 07:07:24</sys_created_on>
+        <sys_id>bfaa7aff2f61211058a6d0ccf699b65b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>After 1 week idea has end of life </sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_update_name>sysauto_script_bfaa7aff2f61211058a6d0ccf699b65b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 12:52:21</sys_updated_on>
+        <time_zone>GMT</time_zone>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

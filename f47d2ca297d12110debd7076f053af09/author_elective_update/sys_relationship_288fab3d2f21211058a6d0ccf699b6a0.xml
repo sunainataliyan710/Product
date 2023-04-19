@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>u_idea</basic_apply_to>
+        <basic_query_from>sysapproval_approver</basic_query_from>
+        <insert_callback/>
+        <name>Idea Approvals</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 05:37:21</sys_created_on>
+        <sys_id>288fab3d2f21211058a6d0ccf699b6a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Idea Approvals</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_update_name>sys_relationship_288fab3d2f21211058a6d0ccf699b6a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 05:37:21</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="DELETE" query="documentkey=288fab3d2f21211058a6d0ccf699b6a0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</application>
+        <file_path/>
+        <instance_id>38eb7072db093bc452dd2f17d49619c2</instance_id>
+        <instance_name>dev84332</instance_name>
+        <name>sys_relationship_288fab3d2f21211058a6d0ccf699b6a0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;&lt;sys_relationship action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;apply_to/&gt;&lt;basic_apply_to&gt;u_idea&lt;/basic_apply_to&gt;&lt;basic_query_from&gt;sysapproval_approver&lt;/basic_query_from&gt;&lt;insert_callback/&gt;&lt;name&gt;Idea Approvals&lt;/name&gt;&lt;query_from/&gt;&lt;query_with&gt;&lt;![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]&gt;&lt;/query_with&gt;&lt;reference_field/&gt;&lt;related_list/&gt;&lt;simple_reference&gt;false&lt;/simple_reference&gt;&lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-03-14 05:37:21&lt;/sys_created_on&gt;&lt;sys_id&gt;288fab3d2f21211058a6d0ccf699b6a0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Idea Approvals&lt;/sys_name&gt;&lt;sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09"&gt;f47d2ca297d12110debd7076f053af09&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Product Life Cycle Management"&gt;f47d2ca297d12110debd7076f053af09&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_relationship_288fab3d2f21211058a6d0ccf699b6a0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-03-14 05:37:21&lt;/sys_updated_on&gt;&lt;/sys_relationship&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=288fab3d2f21211058a6d0ccf699b6a0"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1563353869</payload_hash>
+        <record_name>Idea Approvals</record_name>
+        <reverted_from/>
+        <source>72b5eff775b011108c8b143dd0c59f1d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 05:37:21</sys_created_on>
+        <sys_id>3dffeb3d2f21211058a6d0ccf699b681</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186de9f856c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 05:37:21</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>35ffeb3d76212110d1555537ad6dce81</update_guid>
+        <update_guid_history>35ffeb3d76212110d1555537ad6dce81:1563353869</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 05:49:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>51a3724f27dc4bca9e8e166bc84c8879</sys_id>
+        <sys_metadata>288fab3d2f21211058a6d0ccf699b6a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Idea Approvals</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_parent display_value="Idea">be7e6ce297d12110debd7076f053afbb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_scope_delete display_value="">116b312607a34e85b0e4b30e6a7224d1</sys_scope_delete>
+        <sys_update_name>sys_relationship_288fab3d2f21211058a6d0ccf699b6a0</sys_update_name>
+        <sys_update_version display_value="sys_relationship_288fab3d2f21211058a6d0ccf699b6a0">3dffeb3d2f21211058a6d0ccf699b681</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 05:49:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

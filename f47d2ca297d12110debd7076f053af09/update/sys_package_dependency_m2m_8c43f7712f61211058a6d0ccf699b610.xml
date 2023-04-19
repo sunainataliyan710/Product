@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Workflow Runtime Engine" source="com.glideapp.workflow">7005e7f375b011108c8b143dd0c59f35</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 05:51:43</sys_created_on>
+        <sys_id>8c43f7712f61211058a6d0ccf699b610</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 05:51:43</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

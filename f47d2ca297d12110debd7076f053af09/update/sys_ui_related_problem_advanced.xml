@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="problem" version="2" view="advanced">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Advanced" name="problem" related_list="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9bac288b2f21651058a6d0ccf699b6a0</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>incident.problem_id</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-17 12:36:32</sys_created_on>
+            <sys_id>93ac284f2f21651058a6d0ccf699b67d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-17 12:36:32</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Advanced" name="problem" related_list="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9bac288b2f21651058a6d0ccf699b6a0</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-17 12:36:32</sys_created_on>
+            <sys_id>9bac284f2f21651058a6d0ccf699b67d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-17 12:36:32</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Advanced" name="problem" related_list="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9bac288b2f21651058a6d0ccf699b6a0</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>task_service_offering.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-17 12:36:32</sys_created_on>
+            <sys_id>9fac284f2f21651058a6d0ccf699b67d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-17 12:36:32</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Advanced" name="problem" related_list="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9bac288b2f21651058a6d0ccf699b6a0</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>problem_task.problem</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-17 12:36:32</sys_created_on>
+            <sys_id>93ac284f2f21651058a6d0ccf699b67e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-17 12:36:32</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Advanced" name="problem" related_list="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9bac288b2f21651058a6d0ccf699b6a0</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>change_request.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-17 12:36:32</sys_created_on>
+            <sys_id>97ac284f2f21651058a6d0ccf699b67e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-17 12:36:32</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Advanced" name="problem" related_list="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9bac288b2f21651058a6d0ccf699b6a0</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>problem.duplicate_of</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-17 12:36:32</sys_created_on>
+            <sys_id>9bac284f2f21651058a6d0ccf699b67e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-17 12:36:32</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Advanced" name="problem" related_list="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9bac288b2f21651058a6d0ccf699b6a0</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>task_outage.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-17 12:36:32</sys_created_on>
+            <sys_id>9fac284f2f21651058a6d0ccf699b67e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-17 12:36:32</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Advanced" name="problem" related_list="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9bac288b2f21651058a6d0ccf699b6a0</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>m2m_kb_task.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-17 12:36:32</sys_created_on>
+            <sys_id>93ac284f2f21651058a6d0ccf699b67f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-17 12:36:32</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Problem - Advanced</calculated_name>
+            <filter/>
+            <name>problem</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-17 12:36:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bac288b2f21651058a6d0ccf699b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Problem - Advanced</sys_name>
+            <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+            <sys_update_name>sys_ui_related_problem_advanced</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-17 12:36:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

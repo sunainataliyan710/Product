@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_category">
+    <asmt_metric_category action="INSERT_OR_UPDATE">
+        <create_stakeholders>false</create_stakeholders>
+        <description/>
+        <details/>
+        <filter table="asmt_metric_type">sys_id=2025608b2fed251058a6d0ccf699b6dc^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="2025608b2fed251058a6d0ccf699b6dc"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <metric_type display_value="Product Life Cycle Management Survey">2025608b2fed251058a6d0ccf699b6dc</metric_type>
+        <name>Product Life Cycle Management Survey</name>
+        <order>100</order>
+        <qb_evaluation_method/>
+        <roles/>
+        <scoring_type>percent</scoring_type>
+        <sys_class_name>asmt_metric_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-17 12:03:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2825a8c32f21651058a6d0ccf699b60f</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Product Life Cycle Management Survey</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_update_name>asmt_metric_category_2825a8c32f21651058a6d0ccf699b60f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-17 12:08:11</sys_updated_on>
+        <table>asmt_metric_type</table>
+        <total_metrics>7</total_metrics>
+        <weight>10</weight>
+    </asmt_metric_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=2825a8c32f21651058a6d0ccf699b60f"/>
+</record_update>

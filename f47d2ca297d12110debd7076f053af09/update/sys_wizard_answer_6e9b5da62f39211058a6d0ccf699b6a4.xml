@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Risk Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Risk Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">99b167f7753011108c8b143dd0c59f25</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-28 13:00:16</sys_created_on>
+        <sys_id>6e9b5da62f39211058a6d0ccf699b6a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Risk Task</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_update_name>sys_wizard_answer_6e9b5da62f39211058a6d0ccf699b6a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-28 13:00:16</sys_updated_on>
+        <table/>
+        <target_url>u_risk_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

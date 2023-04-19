@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="u_attendees" table="u_idea">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>3</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Attendees</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_attendees</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">data_array</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>u_idea</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-17 05:23:22</sys_created_on>
+        <sys_id>ce89cb322f69251058a6d0ccf699b64f</sys_id>
+        <sys_name>Attendees</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_update_name>sys_dictionary_u_idea_u_attendees</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-17 10:49:30</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</application>
+        <file_path/>
+        <instance_id>38eb7072db093bc452dd2f17d49619c2</instance_id>
+        <instance_name>dev84332</instance_name>
+        <name>sys_dictionary_u_idea_u_attendees</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_attendees" table="u_idea"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>3</choice><choice_field/><choice_table/><column_label>Attendees</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_attendees</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">data_array</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_idea</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-17 05:23:22</sys_created_on><sys_id>ce89cb322f69251058a6d0ccf699b64f</sys_id><sys_name>Attendees</sys_name><sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package><sys_policy/><sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope><sys_update_name>sys_dictionary_u_idea_u_attendees</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-17 10:49:30</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>332175330</payload_hash>
+        <record_name>IDEA.Attendees</record_name>
+        <reverted_from/>
+        <source>72b5eff775b011108c8b143dd0c59f1d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-17 10:49:31</sys_created_on>
+        <sys_id>6324948f2fad251058a6d0ccf699b614</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186ef3063180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-17 10:49:31</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>2b24948f81ad2510c97318199fdce613</update_guid>
+        <update_guid_history>2b24948f81ad2510c97318199fdce613:332175330,aaee1b3e7fa925105c94df1eb84ccbd3:-504641958,0f01d7fa8b692510066dfe5d5b6a810c:-1268861148,a3901fba0469251078d7f4f8fcb8d16d:-13557756,121d0f76c4692510c3c146f3e7134bc6:-1268861148,b7aac7b2b76925109fbf5aae30f88acc:2104703498,ce89cb32bb69251096ffd83dc691d15d:-770829791</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-17 10:57:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>00734d6d3a784770800a1e1c90e00690</sys_id>
+        <sys_metadata>ce89cb322f69251058a6d0ccf699b64f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attendees</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_parent display_value="Idea">be7e6ce297d12110debd7076f053afbb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_scope_delete display_value="">116b312607a34e85b0e4b30e6a7224d1</sys_scope_delete>
+        <sys_update_name>sys_dictionary_u_idea_u_attendees</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_u_idea_u_attendees">6324948f2fad251058a6d0ccf699b614</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-17 10:57:04</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</claim_owner_scope>
+        <claim_timestamp>1879895abbd0000001</claim_timestamp>
+        <metadata_update_name>sys_dictionary_u_idea_u_attendees</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Product Life Cycle Management</previous_claim_name>
+        <previous_claim_scope>f47d2ca297d12110debd7076f053af09</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 08:15:58</sys_created_on>
+        <sys_id>148de12d2f52e11058a6d0ccf699b6a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 08:15:58</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="24f282662f61e11058a6d0ccf699b620" extends="sysapproval_group" label="Idea Approval" max_length="40" name="u_idea_approval_test" type="collection"/>
+</database>

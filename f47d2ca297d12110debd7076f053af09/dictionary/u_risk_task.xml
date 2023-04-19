@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6c7b59a62f39211058a6d0ccf699b662" extends="task" label="Risk Task" max_length="40" name="u_risk_task" type="collection"/>
+</database>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD276a0ff318e121102aa93fcd5139f27f</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>f47d2ca297d12110debd7076f053af09</scope_name>
+        <serialized_content>{"FlowDesigner:FD276a0ff318e121102aa93fcd5139f27f":{"$COCollectionField":[{"users_child0":{"FDc662a33354652110e4a002ff08d2a0c1":["Any"],"FDc662a33354652110e4a002ff08d2a0c1.$field_facets":{"SimpleMapFacet":"{\"sourceId\":\"bf50acb1-d602-4e37-afbd-2d0d415429e7\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"users\",\"mandatory\":\"false\",\"child_name\":\"users_child0\",\"uiUniqueId\":\"56812e51-e9e7-4722-ae07-e3c809998814\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"users_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"dac33a80-cb39-47f4-921e-a501062ac79a\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"2ce6d8e0-aa52-4ab3-9fed-a21f4d4331aa\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"bf50acb1-d602-4e37-afbd-2d0d415429e7\",\"default_value\":\"\",\"label\":\"users\",\"mandatory\":\"false\",\"child_name\":\"users_child0\",\"uiUniqueId\":\"56812e51-e9e7-4722-ae07-e3c809998814\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD276a0ff318e121102aa93fcd5139f27f\",\"child_label\":\"users_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"dac33a80-cb39-47f4-921e-a501062ac79a\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"2ce6d8e0-aa52-4ab3-9fed-a21f4d4331aa\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD276a0ff318e121102aa93fcd5139f27f.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"bf50acb1-d602-4e37-afbd-2d0d415429e7\",\"default_value\":\"\",\"label\":\"users\",\"mandatory\":\"false\",\"child_name\":\"users_child0\",\"uiUniqueId\":\"56812e51-e9e7-4722-ae07-e3c809998814\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD276a0ff318e121102aa93fcd5139f27f\",\"child_label\":\"users_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"dac33a80-cb39-47f4-921e-a501062ac79a\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"2ce6d8e0-aa52-4ab3-9fed-a21f4d4331aa\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-20 08:01:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e76a0ff32fe1211058a6d0ccf699b67f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FD276a0ff318e121102aa93fcd5139f27f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_update_name>sys_complex_object_e76a0ff32fe1211058a6d0ccf699b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-20 11:01:16</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

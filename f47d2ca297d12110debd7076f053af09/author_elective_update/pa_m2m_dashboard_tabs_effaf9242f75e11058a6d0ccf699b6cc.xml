@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Product Life Cycle Management">7e0611282fb1e11058a6d0ccf699b68a</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 10:09:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>effaf9242f75e11058a6d0ccf699b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7e0611282fb1e11058a6d0ccf699b68a</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_effaf9242f75e11058a6d0ccf699b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 10:09:35</sys_updated_on>
+        <tab display_value="Product Life Cycle M - New Tab 2">27faf9242f75e11058a6d0ccf699b6cb</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</application>
+        <file_path/>
+        <instance_id>38eb7072db093bc452dd2f17d49619c2</instance_id>
+        <instance_name>dev84332</instance_name>
+        <name>pa_m2m_dashboard_tabs_effaf9242f75e11058a6d0ccf699b6cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Product Life Cycle Management">7e0611282fb1e11058a6d0ccf699b68a</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-22 10:09:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>effaf9242f75e11058a6d0ccf699b6cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>7e0611282fb1e11058a6d0ccf699b68a</sys_name><sys_overrides/><sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package><sys_policy/><sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_effaf9242f75e11058a6d0ccf699b6cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-22 10:09:35</sys_updated_on><tab display_value="Product Life Cycle M - New Tab 2">27faf9242f75e11058a6d0ccf699b6cb</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-1650819341</payload_hash>
+        <record_name>7e0611282fb1e11058a6d0ccf699b68a</record_name>
+        <reverted_from/>
+        <source>72b5eff775b011108c8b143dd0c59f1d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 10:09:35</sys_created_on>
+        <sys_id>27faf9242f75e11058a6d0ccf699b6ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18708cb9fdc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 10:09:35</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>6ffaf9242375e110d347929a9f3c13cd</update_guid>
+        <update_guid_history>6ffaf9242375e110d347929a9f3c13cd:-1650819341</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Product Life Cycle Management">230bb5e02f75e11058a6d0ccf699b6fb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 10:09:51</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>0a7335f956444c808187f18483263040</sys_id>
+        <sys_metadata>effaf9242f75e11058a6d0ccf699b6cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7e0611282fb1e11058a6d0ccf699b68a</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_parent display_value="Product Life Cycle Management">7e0611282fb1e11058a6d0ccf699b68a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_scope_delete display_value="">116b312607a34e85b0e4b30e6a7224d1</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_effaf9242f75e11058a6d0ccf699b6cc</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_effaf9242f75e11058a6d0ccf699b6cc">27faf9242f75e11058a6d0ccf699b6ce</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 10:09:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

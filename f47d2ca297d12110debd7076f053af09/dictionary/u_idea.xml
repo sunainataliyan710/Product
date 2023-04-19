@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="be7e6ce297d12110debd7076f053afbb" label="Idea" max_length="40" name="u_idea" type="collection">
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Attendess" max_length="1024" name="u_attendess" reference="sys_user" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="|work_in_progress|" label="idea State" max_length="40" name="u_idea_state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Work In Progress" sequence="100" value="|work_in_progress|"/>
+                <element inactive_on_update="false" label="On Hold" sequence="200" value="|on_hold|"/>
+                <element inactive_on_update="false" label="Completed" sequence="300" value="|completed|"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Location" max_length="32" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Meeting End" max_length="40" name="u_meeting_end" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Meeting Start" max_length="40" name="u_meeting_start" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="On Hold Reason" max_length="40" name="u_on_hold_reason" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reason For Conduct Meeting" max_length="255" name="u_reason_for_conduct_meeting" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time Zone" max_length="40" name="u_time_zone" type="string">
+            <choice>
+                <element inactive_on_update="false" label="AET" value="AET"/>
+                <element inactive_on_update="false" label="Canada/Atlantic" value="Canada/Atlantic"/>
+                <element inactive_on_update="false" label="GMT" value="GMT"/>
+                <element inactive_on_update="false" label="javascript:&quot;System (&quot; + gs.getSysTimeZone() + &quot;)&quot;" value="NULL_OVERRIDE"/>
+                <element inactive_on_update="false" label="US/Pacific" value="US/Pacific"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="u_location"/>
+        </index>
+    </element>
+</database>

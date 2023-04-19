@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Idea Approvals</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_idea_approvals</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Group approval" name="sysapproval_group">8b15a33775b011108c8b143dd0c59f58</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 05:51:40</sys_created_on>
+        <sys_id>4be2ff312f61211058a6d0ccf699b6ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Idea Approvals</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_update_name>sys_db_object_4be2ff312f61211058a6d0ccf699b6ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 05:51:40</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</application>
+        <file_path/>
+        <instance_id>38eb7072db093bc452dd2f17d49619c2</instance_id>
+        <instance_name>dev84332</instance_name>
+        <name>sys_db_object_4be2ff312f61211058a6d0ccf699b6ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Idea Approvals</label><live_feed_enabled>false</live_feed_enabled><name>u_idea_approvals</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Group approval" name="sysapproval_group">8b15a33775b011108c8b143dd0c59f58</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-14 05:51:40</sys_created_on><sys_id>4be2ff312f61211058a6d0ccf699b6ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Idea Approvals</sys_name><sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package><sys_policy/><sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope><sys_update_name>sys_db_object_4be2ff312f61211058a6d0ccf699b6ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-14 05:51:40</sys_updated_on><update_access>false</update_access><user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-811919844</payload_hash>
+        <record_name>Idea Approvals</record_name>
+        <reverted_from/>
+        <source>72b5eff775b011108c8b143dd0c59f1d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 05:51:43</sys_created_on>
+        <sys_id>4843f7712f61211058a6d0ccf699b619</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186deacab060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 05:51:43</sys_updated_on>
+        <type>Table</type>
+        <update_guid>8043f771b5612110fade7ca4ce8cd019</update_guid>
+        <update_guid_history>8043f771b5612110fade7ca4ce8cd019:-811919844</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-15 07:57:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>afba7b27b22f450f899a47ec72d14ff9</sys_id>
+        <sys_metadata>4be2ff312f61211058a6d0ccf699b6ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Idea Approvals</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_scope_delete display_value="">116b312607a34e85b0e4b30e6a7224d1</sys_scope_delete>
+        <sys_update_name>sys_db_object_4be2ff312f61211058a6d0ccf699b6ee</sys_update_name>
+        <sys_update_version display_value="sys_db_object_4be2ff312f61211058a6d0ccf699b6ee">4843f7712f61211058a6d0ccf699b619</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-15 07:57:02</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</claim_owner_scope>
+        <claim_timestamp>1879895ae9a0000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_4be2ff312f61211058a6d0ccf699b6ee</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Product Life Cycle Management</previous_claim_name>
+        <previous_claim_scope>f47d2ca297d12110debd7076f053af09</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 08:15:59</sys_created_on>
+        <sys_id>2c8d252d2f52e11058a6d0ccf699b67f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 08:15:59</sys_updated_on>
+    </sys_claim>
+</record_update>

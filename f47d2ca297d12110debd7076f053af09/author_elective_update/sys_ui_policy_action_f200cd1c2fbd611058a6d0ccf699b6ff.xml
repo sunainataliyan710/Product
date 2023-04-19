@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_business_intake_group</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 11:13:50</sys_created_on>
+        <sys_id>f200cd1c2fbd611058a6d0ccf699b6ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_business_intake_group</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f200cd1c2fbd611058a6d0ccf699b6ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 11:13:50</sys_updated_on>
+        <table>u_idea</table>
+        <ui_policy display_value="If idea phase is analysis business intake group will be mendatory and meeting details section should be visible">aa5ff01c2fbd611058a6d0ccf699b611</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</application>
+        <file_path/>
+        <instance_id>38eb7072db093bc452dd2f17d49619c2</instance_id>
+        <instance_name>dev84332</instance_name>
+        <name>sys_ui_policy_action_f200cd1c2fbd611058a6d0ccf699b6ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>u_business_intake_group</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-21 11:13:50</sys_created_on><sys_id>f200cd1c2fbd611058a6d0ccf699b6ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_business_intake_group</sys_name><sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package><sys_policy/><sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope><sys_update_name>sys_ui_policy_action_f200cd1c2fbd611058a6d0ccf699b6ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-21 11:13:50</sys_updated_on><table>u_idea</table><ui_policy display_value="If idea phase is analysis business intake group will be mendatory and meeting details section should be visible">aa5ff01c2fbd611058a6d0ccf699b611</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1588607912</payload_hash>
+        <record_name>u_business_intake_group</record_name>
+        <reverted_from/>
+        <source>72b5eff775b011108c8b143dd0c59f1d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 11:13:50</sys_created_on>
+        <sys_id>8b10011c2fbd611058a6d0ccf699b689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18703e018bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 11:13:50</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>c310011c12bd611030e076ac389b0f89</update_guid>
+        <update_guid_history>c310011c12bd611030e076ac389b0f89:-1588607912</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 04:57:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>33adfc42b8e349d4b610242473d994e4</sys_id>
+        <sys_metadata>f200cd1c2fbd611058a6d0ccf699b6ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_business_intake_group</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_parent display_value="">aa5ff01c2fbd611058a6d0ccf699b611</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_scope_delete display_value="">116b312607a34e85b0e4b30e6a7224d1</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_f200cd1c2fbd611058a6d0ccf699b6ff</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_f200cd1c2fbd611058a6d0ccf699b6ff">8b10011c2fbd611058a6d0ccf699b689</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-31 04:57:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

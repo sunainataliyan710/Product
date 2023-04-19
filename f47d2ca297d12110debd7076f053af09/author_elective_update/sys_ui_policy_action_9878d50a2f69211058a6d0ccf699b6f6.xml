@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_reason_for_conduct_meeting</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 13:14:14</sys_created_on>
+        <sys_id>9878d50a2f69211058a6d0ccf699b6f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_reason_for_conduct_meeting</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_update_name>sys_ui_policy_action_9878d50a2f69211058a6d0ccf699b6f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 13:14:14</sys_updated_on>
+        <table>u_idea_approvals</table>
+        <ui_policy display_value="If There is need to conduct a meeting is True then Reason for Conduct Meeting visible and mandatory">11c799c62f69211058a6d0ccf699b673</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</application>
+        <file_path/>
+        <instance_id>38eb7072db093bc452dd2f17d49619c2</instance_id>
+        <instance_name>dev84332</instance_name>
+        <name>sys_ui_policy_action_9878d50a2f69211058a6d0ccf699b6f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>u_reason_for_conduct_meeting</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-14 13:14:14</sys_created_on><sys_id>9878d50a2f69211058a6d0ccf699b6f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_reason_for_conduct_meeting</sys_name><sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package><sys_policy/><sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope><sys_update_name>sys_ui_policy_action_9878d50a2f69211058a6d0ccf699b6f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-14 13:14:14</sys_updated_on><table>u_idea_approvals</table><ui_policy display_value="If There is need to conduct a meeting is True then Reason for Conduct Meeting visible and mandatory">11c799c62f69211058a6d0ccf699b673</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1217810852</payload_hash>
+        <record_name>u_reason_for_conduct_meeting</record_name>
+        <reverted_from/>
+        <source>72b5eff775b011108c8b143dd0c59f1d</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 13:14:14</sys_created_on>
+        <sys_id>de88510a2f69211058a6d0ccf699b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186e041ce590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 13:14:14</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>1a88510a20692110b4cc93731ba300d8</update_guid>
+        <update_guid_history>1a88510a20692110b4cc93731ba300d8:-1217810852</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-15 07:57:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>997e23223ac24fa7b9ab27ad9463eca9</sys_id>
+        <sys_metadata>9878d50a2f69211058a6d0ccf699b6f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_reason_for_conduct_meeting</sys_name>
+        <sys_package display_value="Product Life Cycle Management" source="f47d2ca297d12110debd7076f053af09">f47d2ca297d12110debd7076f053af09</sys_package>
+        <sys_parent display_value="">11c799c62f69211058a6d0ccf699b673</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Product Life Cycle Management">f47d2ca297d12110debd7076f053af09</sys_scope>
+        <sys_scope_delete display_value="">116b312607a34e85b0e4b30e6a7224d1</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_9878d50a2f69211058a6d0ccf699b6f6</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_9878d50a2f69211058a6d0ccf699b6f6">de88510a2f69211058a6d0ccf699b6d8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-15 07:57:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
